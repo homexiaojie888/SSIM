@@ -1,0 +1,36 @@
+1    SS Property timestamp and tid: 129116977-8 #first stage UTIL: 25 #total UTIL: 25 #utility ratio: 0.625
+1 2 3 4 5 6    SS Property timestamp and tid: 129116364-1 #first stage UTIL: 31 #total UTIL: 31 #utility ratio: 1.0
+1 2 3 4 6    SS Property timestamp and tid: 129116364-1 #first stage UTIL: 28 #total UTIL: 28 #utility ratio: 1.0
+1 2 3 5 6    SS Property timestamp and tid: 129116364-1 #first stage UTIL: 25 #total UTIL: 25 #utility ratio: 1.0
+1 2 3 6    SS Property timestamp and tid: 129116364-1 #first stage UTIL: 22 #total UTIL: 22 #utility ratio: 1.0
+1 2 4 5 6    SS Property timestamp and tid: 129116364-1 #first stage UTIL: 29 #total UTIL: 29 #utility ratio: 1.0
+1 2 4 6    SS Property timestamp and tid: 129116364-1 #first stage UTIL: 26 #total UTIL: 26 #utility ratio: 1.0
+1 2 5 6    SS Property timestamp and tid: 129116364-1 #first stage UTIL: 23 #total UTIL: 23 #utility ratio: 1.0
+1 2 6    SS Property timestamp and tid: 129116364-1 #first stage UTIL: 20 #total UTIL: 20 #utility ratio: 1.0
+1 3    SS Property timestamp and tid: 129116977-8 #first stage UTIL: 37 #total UTIL: 37 #utility ratio: 0.6166666666666667
+1 3 4 5 6    SS Property timestamp and tid: 129116364-1 #first stage UTIL: 21 #total UTIL: 21 #utility ratio: 1.0
+1 3 5    SS Property timestamp and tid: 12916999-9 #first stage UTIL: 54 #total UTIL: 54 #utility ratio: 0.84375
+1 3 5 7    SS Property timestamp and tid: 12916999-9 #first stage UTIL: 54 #total UTIL: 54 #utility ratio: 0.782608695652174
+1 3 7    SS Property timestamp and tid: 12916999-9 #first stage UTIL: 42 #total UTIL: 42 #utility ratio: 0.7777777777777778
+1 5    SS Property timestamp and tid: 12916999-9 #first stage UTIL: 40 #total UTIL: 40 #utility ratio: 0.8333333333333334
+1 5 7    SS Property timestamp and tid: 12916999-9 #first stage UTIL: 42 #total UTIL: 42 #utility ratio: 0.7636363636363637
+1 7    SS Property timestamp and tid: 12916999-9 #first stage UTIL: 30 #total UTIL: 30 #utility ratio: 0.75
+2 3 4 5 6    SS Property timestamp and tid: 129116364-1 #first stage UTIL: 26 #total UTIL: 26 #utility ratio: 1.0
+2 3 4 6    SS Property timestamp and tid: 129116364-1 #first stage UTIL: 23 #total UTIL: 23 #utility ratio: 1.0
+2 3 5 6    SS Property timestamp and tid: 129116712-5 #first stage UTIL: 34 #total UTIL: 34 #utility ratio: 1.0
+2 3 5 6 7    SS Property timestamp and tid: 129116712-5 #first stage UTIL: 23 #total UTIL: 23 #utility ratio: 1.0
+2 3 6    SS Property timestamp and tid: 129116364-1 #first stage UTIL: 17 #total UTIL: 17 #utility ratio: 0.6071428571428571
+2 3 6 7    SS Property timestamp and tid: 129116712-5 #first stage UTIL: 20 #total UTIL: 20 #utility ratio: 1.0
+2 4 5 6    SS Property timestamp and tid: 129116364-1 #first stage UTIL: 24 #total UTIL: 24 #utility ratio: 1.0
+2 4 6    SS Property timestamp and tid: 129116364-1 #first stage UTIL: 21 #total UTIL: 21 #utility ratio: 1.0
+2 5 6    SS Property timestamp and tid: 129116364-1 #first stage UTIL: 18 #total UTIL: 18 #utility ratio: 0.6
+2 5 6 7    SS Property timestamp and tid: 129116712-5 #first stage UTIL: 21 #total UTIL: 21 #utility ratio: 1.0
+2 6    SS Property timestamp and tid: 129116364-1 #first stage UTIL: 15 #total UTIL: 15 #utility ratio: 0.625
+3    SS Property timestamp and tid: 129116934-7 #first stage UTIL: 16 #total UTIL: 16 #utility ratio: 0.6153846153846154
+3 5    SS Property timestamp and tid: 129116934-7 #first stage UTIL: 32 #total UTIL: 32 #utility ratio: 0.6530612244897959
+3 5 6    SS Property timestamp and tid: 129116712-5 #first stage UTIL: 20 #total UTIL: 20 #utility ratio: 1.0
+3 5 7    SS Property timestamp and tid: 12916999-9 #first stage UTIL: 48 #total UTIL: 48 #utility ratio: 0.8275862068965517
+3 7    SS Property timestamp and tid: 12916999-9 #first stage UTIL: 33 #total UTIL: 33 #utility ratio: 0.825
+5    SS Property timestamp and tid: 129116934-7 #first stage UTIL: 18 #total UTIL: 18 #utility ratio: 0.6666666666666666
+5 7    SS Property timestamp and tid: 12916999-9 #first stage UTIL: 34 #total UTIL: 34 #utility ratio: 0.8095238095238095
+7    SS Property timestamp and tid: 12916999-9 #first stage UTIL: 19 #total UTIL: 19 #utility ratio: 0.7916666666666666

@@ -1,0 +1,36 @@
+1    delta timestamp and tid: 12916999-9 # less delta UTIL: 30 #total UTIL: 40 #utility ratio: 0.75
+1 2 3 4 5 6    delta timestamp and tid: 129116364-1 # less delta UTIL: 31 #total UTIL: 31 #utility ratio: 1.0
+1 2 3 4 6    delta timestamp and tid: 129116364-1 # less delta UTIL: 28 #total UTIL: 28 #utility ratio: 1.0
+1 2 3 5 6    delta timestamp and tid: 129116364-1 # less delta UTIL: 25 #total UTIL: 25 #utility ratio: 1.0
+1 2 3 6    delta timestamp and tid: 129116364-1 # less delta UTIL: 22 #total UTIL: 22 #utility ratio: 1.0
+1 2 4 5 6    delta timestamp and tid: 129116364-1 # less delta UTIL: 29 #total UTIL: 29 #utility ratio: 1.0
+1 2 4 6    delta timestamp and tid: 129116364-1 # less delta UTIL: 26 #total UTIL: 26 #utility ratio: 1.0
+1 2 5 6    delta timestamp and tid: 129116364-1 # less delta UTIL: 23 #total UTIL: 23 #utility ratio: 1.0
+1 2 6    delta timestamp and tid: 129116364-1 # less delta UTIL: 20 #total UTIL: 20 #utility ratio: 1.0
+1 3    delta timestamp and tid: 12916999-9 # less delta UTIL: 46 #total UTIL: 60 #utility ratio: 0.7666666666666667
+1 3 4 5 6    delta timestamp and tid: 129116364-1 # less delta UTIL: 21 #total UTIL: 21 #utility ratio: 1.0
+1 3 5    delta timestamp and tid: 12916999-9 # less delta UTIL: 54 #total UTIL: 64 #utility ratio: 0.84375
+1 3 5 7    delta timestamp and tid: 12916999-9 # less delta UTIL: 54 #total UTIL: 69 #utility ratio: 0.782608695652174
+1 3 7    delta timestamp and tid: 12916999-9 # less delta UTIL: 42 #total UTIL: 54 #utility ratio: 0.7777777777777778
+1 5    delta timestamp and tid: 12916999-9 # less delta UTIL: 40 #total UTIL: 48 #utility ratio: 0.8333333333333334
+1 5 7    delta timestamp and tid: 12916999-9 # less delta UTIL: 42 #total UTIL: 55 #utility ratio: 0.7636363636363637
+1 7    delta timestamp and tid: 12916999-9 # less delta UTIL: 30 #total UTIL: 40 #utility ratio: 0.75
+2 3 4 5 6    delta timestamp and tid: 129116364-1 # less delta UTIL: 26 #total UTIL: 26 #utility ratio: 1.0
+2 3 4 6    delta timestamp and tid: 129116364-1 # less delta UTIL: 23 #total UTIL: 23 #utility ratio: 1.0
+2 3 5 6    delta timestamp and tid: 129116712-5 # less delta UTIL: 34 #total UTIL: 34 #utility ratio: 1.0
+2 3 5 6 7    delta timestamp and tid: 129116712-5 # less delta UTIL: 23 #total UTIL: 23 #utility ratio: 1.0
+2 3 6    delta timestamp and tid: 129116712-5 # less delta UTIL: 28 #total UTIL: 28 #utility ratio: 1.0
+2 3 6 7    delta timestamp and tid: 129116712-5 # less delta UTIL: 20 #total UTIL: 20 #utility ratio: 1.0
+2 4 5 6    delta timestamp and tid: 129116364-1 # less delta UTIL: 24 #total UTIL: 24 #utility ratio: 1.0
+2 4 6    delta timestamp and tid: 129116364-1 # less delta UTIL: 21 #total UTIL: 21 #utility ratio: 1.0
+2 5 6    delta timestamp and tid: 129116712-5 # less delta UTIL: 30 #total UTIL: 30 #utility ratio: 1.0
+2 5 6 7    delta timestamp and tid: 129116712-5 # less delta UTIL: 21 #total UTIL: 21 #utility ratio: 1.0
+2 6    delta timestamp and tid: 129116712-5 # less delta UTIL: 24 #total UTIL: 24 #utility ratio: 1.0
+3    delta timestamp and tid: 12916999-9 # less delta UTIL: 20 #total UTIL: 26 #utility ratio: 0.7692307692307693
+3 5    delta timestamp and tid: 12916999-9 # less delta UTIL: 39 #total UTIL: 49 #utility ratio: 0.7959183673469388
+3 5 6    delta timestamp and tid: 129116712-5 # less delta UTIL: 20 #total UTIL: 20 #utility ratio: 1.0
+3 5 7    delta timestamp and tid: 12916999-9 # less delta UTIL: 48 #total UTIL: 58 #utility ratio: 0.8275862068965517
+3 7    delta timestamp and tid: 12916999-9 # less delta UTIL: 33 #total UTIL: 40 #utility ratio: 0.825
+5    delta timestamp and tid: 12916999-9 # less delta UTIL: 21 #total UTIL: 27 #utility ratio: 0.7777777777777778
+5 7    delta timestamp and tid: 12916999-9 # less delta UTIL: 34 #total UTIL: 42 #utility ratio: 0.8095238095238095
+7    delta timestamp and tid: 12916999-9 # less delta UTIL: 19 #total UTIL: 24 #utility ratio: 0.7916666666666666

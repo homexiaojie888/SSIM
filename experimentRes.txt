@@ -1,0 +1,15 @@
+=============  SSIM ALGORITHM - STATS =============
+ Dataset : /D:/code/shortSightPattern/SSIM/target/classes/DB_Utility2.txt
+ minutil : 20
+ minutilR : 0.1
+ minRatio : 0.6
+ delta : 0.5
+ Candidates count : 78
+ SSI count : 36
+ joint count : 71
+ memory usage : 5.080070495605469 MB
+ Total time ~ 0.017 s
+ First Scan time ~ 0.007 s
+ Second Scan time ~ 0.005 s
+ Mining time ~ 0.005 s
+===================================================
